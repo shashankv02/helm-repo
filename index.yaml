@@ -1,18 +1,14 @@
 apiVersion: v1
 entries:
-  guestbook:
+  configmanager:
   - apiVersion: v2
-    appVersion: v4
-    created: "2020-07-13T22:04:26.275802+05:30"
-    dependencies:
-    - name: redis
-      repository: https://charts.bitnami.com
-      version: 10.7.11
-    description: A Helm chart for Kubernetes
-    digest: 72b07b41449b41969ea7143d2552c7b914a5d46b51651aa9ea7c4daf92941cf3
-    name: guestbook
+    appVersion: 3.0.0
+    created: "2020-07-13T23:02:32.152565+05:30"
+    description: A Helm chart for ConfigManager
+    digest: cf0ad2b8e901b96772722bd85c4dd163a358e8fba89ba8765372ba76a0403f9d
+    name: configmanager
     type: application
     urls:
-    - guestbook-0.1.0.tgz
+    - configmanager-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-13T22:04:26.271597+05:30"
+generated: "2020-07-13T23:02:32.150508+05:30"
