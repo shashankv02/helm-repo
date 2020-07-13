@@ -3,12 +3,12 @@ entries:
   configmanager:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-07-13T23:02:32.152565+05:30"
+    created: "2020-07-13T23:07:21.85277+05:30"
     description: A Helm chart for ConfigManager
-    digest: cf0ad2b8e901b96772722bd85c4dd163a358e8fba89ba8765372ba76a0403f9d
+    digest: 2070f4680eb6386028c62b088fff5a0b7101b29f27cf1942e4e95dd420202c9f
     name: configmanager
     type: application
     urls:
     - configmanager-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-13T23:02:32.150508+05:30"
+generated: "2020-07-13T23:07:21.85127+05:30"
