@@ -3,7 +3,7 @@ entries:
   configmanager:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-07-17T18:57:25.212518+05:30"
+    created: "2020-07-17T19:22:35.502573+05:30"
     description: A Helm chart for ConfigManager
     digest: 19a19c3bb5ef013ec397b85eacff6f8e019e623a987858a12570761646155434
     name: configmanager
@@ -14,9 +14,9 @@ entries:
   healthbot:
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-17T18:57:25.215605+05:30"
+    created: "2020-07-17T19:22:35.511698+05:30"
     description: A Helm chart for installing HealthBot
-    digest: 880fa17ece323d5e6ef062924b6ea904f56816cb8a36de9d5ef3143338f02890
+    digest: 193f634b7ce9301ae60293bb376b0b58237a234b4402240adffea3e9b64e5926
     name: healthbot
     type: application
     urls:
@@ -24,7 +24,7 @@ entries:
     version: 1.0.3
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-17T18:57:25.215328+05:30"
+    created: "2020-07-17T19:22:35.510187+05:30"
     description: A Helm chart for installing HealthBot
     digest: 50a850ac828ccdd2a13930e9a5923f25c0e76d9bca1e29c639556a1d0a349815
     name: healthbot
@@ -34,7 +34,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-17T18:57:25.215041+05:30"
+    created: "2020-07-17T19:22:35.508726+05:30"
     description: A Helm chart for installing HealthBot
     digest: 66a174b83b990c765ef0eba3df02225a885f7b9b46ba1de22662c706ef1aef85
     name: healthbot
@@ -44,7 +44,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-17T18:57:25.214711+05:30"
+    created: "2020-07-17T19:22:35.507275+05:30"
     description: A Helm chart for installing HealthBot
     digest: cac866e3a4a00b357945f6feb1fa3dce190ea14d7ccda78b8279c1da74b7b15d
     name: healthbot
@@ -54,7 +54,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-07-17T18:57:25.213615+05:30"
+    created: "2020-07-17T19:22:35.505213+05:30"
     dependencies:
     - name: configmanager
       repository: https://www.shashankv.in/helm-repo/
@@ -72,7 +72,7 @@ entries:
   tsdb:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-07-17T18:57:25.21603+05:30"
+    created: "2020-07-17T19:22:35.513209+05:30"
     description: A Helm chart for tsdb service
     digest: 3c437b1b471dc1cea5a055e98125b3e27901f81396a1d9f8a150082b93237c62
     name: tsdb
@@ -80,4 +80,4 @@ entries:
     urls:
     - tsdb-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-17T18:57:25.211839+05:30"
+generated: "2020-07-17T19:22:35.499195+05:30"
