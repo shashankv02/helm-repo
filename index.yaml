@@ -3,7 +3,7 @@ entries:
   configmanager:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-07-17T18:42:31.095327+05:30"
+    created: "2020-07-17T18:49:51.000615+05:30"
     description: A Helm chart for ConfigManager
     digest: 19a19c3bb5ef013ec397b85eacff6f8e019e623a987858a12570761646155434
     name: configmanager
@@ -14,9 +14,9 @@ entries:
   healthbot:
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-17T18:42:31.098508+05:30"
+    created: "2020-07-17T18:49:51.002821+05:30"
     description: A Helm chart for installing HealthBot
-    digest: c15f23f07856e2d791825c4259ac2485d0a9f6b0238fae20e35a5ff8f0d306ff
+    digest: 00f46f4232949ea1297a95ab1cab277cafa559ea105c26ebeb5a91b2da679516
     name: healthbot
     type: application
     urls:
@@ -24,7 +24,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-07-17T18:42:31.097886+05:30"
+    created: "2020-07-17T18:49:51.002489+05:30"
     dependencies:
     - name: configmanager
       repository: https://www.shashankv.in/helm-repo/
@@ -42,7 +42,7 @@ entries:
   tsdb:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-07-17T18:42:31.099008+05:30"
+    created: "2020-07-17T18:49:51.003687+05:30"
     description: A Helm chart for tsdb service
     digest: 3c437b1b471dc1cea5a055e98125b3e27901f81396a1d9f8a150082b93237c62
     name: tsdb
@@ -50,4 +50,4 @@ entries:
     urls:
     - tsdb-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-17T18:42:31.094647+05:30"
+generated: "2020-07-17T18:49:50.996703+05:30"
