@@ -3,7 +3,7 @@ entries:
   configmanager:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-07-17T18:54:53.095917+05:30"
+    created: "2020-07-17T18:55:12.468286+05:30"
     description: A Helm chart for ConfigManager
     digest: 19a19c3bb5ef013ec397b85eacff6f8e019e623a987858a12570761646155434
     name: configmanager
@@ -14,7 +14,17 @@ entries:
   healthbot:
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-17T18:54:53.098988+05:30"
+    created: "2020-07-17T18:55:12.470796+05:30"
+    description: A Helm chart for installing HealthBot
+    digest: 50a850ac828ccdd2a13930e9a5923f25c0e76d9bca1e29c639556a1d0a349815
+    name: healthbot
+    type: application
+    urls:
+    - healthbot-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v1
+    appVersion: 3.0.0
+    created: "2020-07-17T18:55:12.470443+05:30"
     description: A Helm chart for installing HealthBot
     digest: 66a174b83b990c765ef0eba3df02225a885f7b9b46ba1de22662c706ef1aef85
     name: healthbot
@@ -24,7 +34,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-17T18:54:53.098691+05:30"
+    created: "2020-07-17T18:55:12.469839+05:30"
     description: A Helm chart for installing HealthBot
     digest: cac866e3a4a00b357945f6feb1fa3dce190ea14d7ccda78b8279c1da74b7b15d
     name: healthbot
@@ -34,7 +44,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-07-17T18:54:53.097979+05:30"
+    created: "2020-07-17T18:55:12.469484+05:30"
     dependencies:
     - name: configmanager
       repository: https://www.shashankv.in/helm-repo/
@@ -52,7 +62,7 @@ entries:
   tsdb:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-07-17T18:54:53.100838+05:30"
+    created: "2020-07-17T18:55:12.472969+05:30"
     description: A Helm chart for tsdb service
     digest: 3c437b1b471dc1cea5a055e98125b3e27901f81396a1d9f8a150082b93237c62
     name: tsdb
@@ -60,4 +70,4 @@ entries:
     urls:
     - tsdb-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-17T18:54:53.091694+05:30"
+generated: "2020-07-17T18:55:12.46763+05:30"
