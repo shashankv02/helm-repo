@@ -3,7 +3,7 @@ entries:
   configmanager:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-07-17T23:22:47.769347+05:30"
+    created: "2020-07-17T23:33:18.169882+05:30"
     description: A Helm chart for ConfigManager
     digest: 19a19c3bb5ef013ec397b85eacff6f8e019e623a987858a12570761646155434
     name: configmanager
@@ -14,7 +14,7 @@ entries:
   healthbot:
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-17T23:22:47.786638+05:30"
+    created: "2020-07-17T23:33:18.187072+05:30"
     description: A Helm chart for installing HealthBot
     digest: b04d6329c2d7a9f83352f23eb105e45c61f2c4e7e50e522ccbda03eb2deb8cc0
     name: healthbot
@@ -24,7 +24,7 @@ entries:
     version: 1.0.3
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-17T23:22:47.785853+05:30"
+    created: "2020-07-17T23:33:18.186273+05:30"
     description: A Helm chart for installing HealthBot
     digest: 50a850ac828ccdd2a13930e9a5923f25c0e76d9bca1e29c639556a1d0a349815
     name: healthbot
@@ -34,7 +34,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-17T23:22:47.785122+05:30"
+    created: "2020-07-17T23:33:18.185491+05:30"
     description: A Helm chart for installing HealthBot
     digest: 66a174b83b990c765ef0eba3df02225a885f7b9b46ba1de22662c706ef1aef85
     name: healthbot
@@ -44,7 +44,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-17T23:22:47.784321+05:30"
+    created: "2020-07-17T23:33:18.184687+05:30"
     description: A Helm chart for installing HealthBot
     digest: cac866e3a4a00b357945f6feb1fa3dce190ea14d7ccda78b8279c1da74b7b15d
     name: healthbot
@@ -54,7 +54,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: dev_development_1137
-    created: "2020-07-17T23:22:47.783256+05:30"
+    created: "2020-07-17T23:33:18.18392+05:30"
     description: A Helm chart for installing HealthBot
     digest: e7098bf025f46a412110bc1b47b88e91a2ff3a3d39da7e2381641549c286bf93
     name: healthbot
@@ -64,7 +64,7 @@ entries:
     version: 1.0.0-9-g6cc160b
   - apiVersion: v1
     appVersion: dev_development_latest
-    created: "2020-07-17T23:22:47.782514+05:30"
+    created: "2020-07-17T23:33:18.182925+05:30"
     description: A Helm chart for installing HealthBot
     digest: 7e8af848335f3161cfee72af5e6902057402ff2856290d4631a213b40f460369
     name: healthbot
@@ -74,7 +74,7 @@ entries:
     version: 1.0.0-8-g2e4d940
   - apiVersion: v1
     appVersion: dev_development_latest
-    created: "2020-07-17T23:22:47.781758+05:30"
+    created: "2020-07-17T23:33:18.18163+05:30"
     description: A Helm chart for installing HealthBot
     digest: 576215a0c14e0781ca9db2765e7412514dc277805f0cf39d9648a5dd5dee126f
     name: healthbot
@@ -84,7 +84,7 @@ entries:
     version: 1.0.0-7-gc835ae5
   - apiVersion: v1
     appVersion: dev_development_1136
-    created: "2020-07-17T23:22:47.780825+05:30"
+    created: "2020-07-17T23:33:18.180334+05:30"
     description: A Helm chart for installing HealthBot
     digest: c635dd7fcc7645abc8ef0fcc0b2c462e9bc40f324940bb6ac13e2ebad5b05331
     name: healthbot
@@ -94,7 +94,7 @@ entries:
     version: 1.0.0-6-gbd775e2
   - apiVersion: v1
     appVersion: dev_development_1136
-    created: "2020-07-17T23:22:47.779985+05:30"
+    created: "2020-07-17T23:33:18.179522+05:30"
     description: A Helm chart for installing HealthBot
     digest: 5759cc77841166b34293a8a0d05379e3ae2c1684cef45093fdffec6b4979411e
     name: healthbot
@@ -104,7 +104,7 @@ entries:
     version: 1.0.0-4-g3f8316d
   - apiVersion: v1
     appVersion: dev_development_1136
-    created: "2020-07-17T23:22:47.77925+05:30"
+    created: "2020-07-17T23:33:18.178691+05:30"
     description: A Helm chart for installing HealthBot
     digest: 45505dc479c1aca34a599715c7a3c3a66bdfc4d2ca483db376823fa1b20dfb9c
     name: healthbot
@@ -114,7 +114,7 @@ entries:
     version: 1.0.0-3-gd5dba2e
   - apiVersion: v1
     appVersion: dev/development/1136
-    created: "2020-07-17T23:22:47.778629+05:30"
+    created: "2020-07-17T23:33:18.177886+05:30"
     description: A Helm chart for installing HealthBot
     digest: d98d1b5c922510a46173df030b5b55e3fafaa7ee151f00bc1d99bce607b3a469
     name: healthbot
@@ -123,10 +123,10 @@ entries:
     - healthbot-1.0.0-2-gfb7a448.tgz
     version: 1.0.0-2-gfb7a448
   - apiVersion: v1
-    appVersion: dev_development_1137
-    created: "2020-07-17T23:22:47.777952+05:30"
+    appVersion: dev_development_1138
+    created: "2020-07-17T23:33:18.177131+05:30"
     description: A Helm chart for installing HealthBot
-    digest: 000afa0263a13e7e1c1cc5d4efccbb1fc168860cc685a7033b105152ac9ac424
+    digest: 089a58749bb9322eca27daa48d561748bbcd85fd5f0da70c2898c71ada16dad2
     name: healthbot
     type: application
     urls:
@@ -134,7 +134,7 @@ entries:
     version: 1.0.0-11-g7e7ac94
   - apiVersion: v1
     appVersion: dev_development_1137
-    created: "2020-07-17T23:22:47.777492+05:30"
+    created: "2020-07-17T23:33:18.176539+05:30"
     description: A Helm chart for installing HealthBot
     digest: 82ab4c115b73bcc1ed5e3d535fa677892cf405406c6a12b069ea628ed36b7289
     name: healthbot
@@ -144,7 +144,7 @@ entries:
     version: 1.0.0-10-gee53701
   - apiVersion: v1
     appVersion: dev/development/1136
-    created: "2020-07-17T23:22:47.776289+05:30"
+    created: "2020-07-17T23:33:18.175565+05:30"
     description: A Helm chart for installing HealthBot
     digest: a52fc51417531c15f96f966a6e03daf1d5b680140266b3350e02fc94d2506048
     name: healthbot
@@ -154,7 +154,7 @@ entries:
     version: 1.0.0-1-g43b89a3
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-07-17T23:22:47.775575+05:30"
+    created: "2020-07-17T23:33:18.174765+05:30"
     dependencies:
     - name: configmanager
       repository: https://www.shashankv.in/helm-repo/
@@ -172,7 +172,7 @@ entries:
   tsdb:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-07-17T23:22:47.787705+05:30"
+    created: "2020-07-17T23:33:18.188125+05:30"
     description: A Helm chart for tsdb service
     digest: 3c437b1b471dc1cea5a055e98125b3e27901f81396a1d9f8a150082b93237c62
     name: tsdb
@@ -180,4 +180,4 @@ entries:
     urls:
     - tsdb-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-17T23:22:47.767481+05:30"
+generated: "2020-07-17T23:33:18.166099+05:30"
